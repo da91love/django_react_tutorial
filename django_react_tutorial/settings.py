@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'leads.apps.LeadsConfig',
     'rest_framework',
+    'frontend',
 ]
 
 MIDDLEWARE = [
@@ -124,8 +125,8 @@ STATIC_URL = '/static/'
 """
 it is a good idea to disable the browseable API in production with this configuration:
 """
-REST_FRAMEWORK = {
-    'DEFAULT_RENDERER_CLASSES': (
-        'rest_framework.renderers.JSONRenderer',
-    )
-}
+# REST_FRAMEWORK = {
+#     'DEFAULT_RENDERER_CLASSES': (
+#         'rest_framework.renderers.JSONRenderer',
+#     )
+# }
