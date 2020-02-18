@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f79fa54-b204-47d4-9bdb-b960b90b11d2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/django_react_tutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/django_react_tutorial.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_react_tutorial/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_react_tutorial/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_react_tutorial/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_react_tutorial/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leads/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/leads/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leads/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/leads/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +94,7 @@
       <workItem from="1581996095478" duration="5182000" />
       <workItem from="1582010925053" duration="525000" />
       <workItem from="1582012557455" duration="386000" />
-      <workItem from="1582012974388" duration="2722000" />
+      <workItem from="1582012974388" duration="3477000" />
     </task>
     <servers />
   </component>
@@ -119,25 +115,25 @@
     </state>
     <state x="526" y="193" key="FileChooserDialogImpl/0.0.1366.728/-249.-1080.1920.1040@0.0.1366.728" timestamp="1582012564857" />
     <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581996312119" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1582015322264">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1582016429979">
       <screen x="-249" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1366.728/-249.-1080.1920.1040@-249.-1080.1920.1040" timestamp="1582015322264" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1366.728/-249.-1080.1920.1040@-249.-1080.1920.1040" timestamp="1582016429979" />
     <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582006710720" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1582015322263">
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1582016429979">
       <screen x="-249" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1366.728/-249.-1080.1920.1040@-249.-1080.1920.1040" timestamp="1582015322263" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1366.728/-249.-1080.1920.1040@-249.-1080.1920.1040" timestamp="1582016429979" />
     <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582006710720" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1582015322263">
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1582016429978">
       <screen x="-249" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1366.728/-249.-1080.1920.1040@-249.-1080.1920.1040" timestamp="1582015322263" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1366.728/-249.-1080.1920.1040@-249.-1080.1920.1040" timestamp="1582016429978" />
     <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582006710720" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1582015322263">
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1582016429979">
       <screen x="-249" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1366.728/-249.-1080.1920.1040@-249.-1080.1920.1040" timestamp="1582015322263" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1366.728/-249.-1080.1920.1040@-249.-1080.1920.1040" timestamp="1582016429979" />
     <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582006710720" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1582015322264">
       <screen x="-249" y="-1080" width="1920" height="1040" />
@@ -197,6 +193,6 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/django_react_tutorial$manage.coverage" NAME="manage Coverage Results" MODIFIED="1582013993972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/django_react_tutorial$manage.coverage" NAME="manage Coverage Results" MODIFIED="1582016429959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
